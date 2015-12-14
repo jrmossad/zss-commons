@@ -6,14 +6,14 @@ Gem::Specification.new do |spec|
   spec.name          = 'zss-commons'
   spec.version       = ZSS::Commons::VERSION
   spec.authors       = ["Pedro Januário","Francisco Temudo"]
-  spec.email         = ["francisco@clubjudge.com"]
+  spec.email         = ["fthemudo@gmail.com"]
   spec.description   = %q{Base DTO classes and pagination}
   spec.summary       = %q{This project is defines the base DTO classes and behaviours for ZMQ Service Suite,
                           check http://pjanuario.github.io/zmq-service-suite-specs/ for more info.}
   spec.homepage      = "https://github.com/Clubjudge/zss-commons"
   spec.metadata      = {
-    "source_code" => "https://github.com/Clubjudge/zss-dcommons",
-    "issue_tracker" => "https://github.com/Clubjudge/zss-commons/issues"
+    "source_code" => "https://github.com/dadah/zss-commons",
+    "issue_tracker" => "https://github.com/dadah/zss-commons/issues"
   }
 
   spec.files         = `git ls-files`.split($/)

@@ -1,7 +1,3 @@
-[![Build Status](https://magnum.travis-ci.com/Clubjudge/zss-commons.svg?token=KD2YaMNAX2opAeocvUzy)](https://magnum.travis-ci.com/Clubjudge/zss-commons)
-[![Code Climate](https://codeclimate.com/repos/54fdd5176956804d63000426/badges/12b55fda92ad2d569593/gpa.svg)](https://codeclimate.com/repos/54fdd5176956804d63000426/feed)
-[![Test Coverage](https://codeclimate.com/repos/54fdd5176956804d63000426/badges/12b55fda92ad2d569593/coverage.svg)](https://codeclimate.com/repos/54fdd5176956804d63000426/feed)
-
 # zss-commons
 
 This project includes base classes for zss services, dtos, repositories and mappers
