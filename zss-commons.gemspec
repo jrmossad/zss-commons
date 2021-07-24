@@ -30,6 +30,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'activerecord'
   spec.add_dependency 'hashie', '~> 3.2'
   spec.add_dependency 'activesupport', '~> 4.2'
-  spec.add_dependency 'zss'
+  spec.add_dependency 'zss', git: 'git@github.com:jrmossad/zmq-service-suite-ruby.git'
   spec.add_dependency 'redis-namespace'
 end
