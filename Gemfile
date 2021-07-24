@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # Specify your gem's dependencies in zss.gemspec
 gem 'bundler'
-gem 'rake'
+gem 'rake', '~> 10.3'
 gem 'rspec'
 gem 'pry'
 gem 'simplecov'
