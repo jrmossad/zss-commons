@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
                           check http://pjanuario.github.io/zmq-service-suite-specs/ for more info.}
   spec.homepage      = "https://github.com/Clubjudge/zss-commons"
   spec.metadata      = {
-    "source_code" => "https://github.com/dadah/zss-commons",
+    "source_code" => "git@github.com:jrmossad/zss-commons.git",
     "issue_tracker" => "https://github.com/dadah/zss-commons/issues"
   }
 
